@@ -21,8 +21,16 @@ Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
 
 
+## Next Steps:
+
+- Improve data exploration with better graphics
+- Handle missing values with a KNN Inputer
+- Do some feature engineering
+- Prepare data for training 
+- Train the Classifiers
+
 ## References
 
-(Normalization vs Standarization)[https://towardsdatascience.com/normalization-vs-standardization-explained-209e84d0f81e]
-(Polynomial Regression)[https://towardsdatascience.com/polynomial-regression-with-scikit-learn-what-you-should-know-bed9d3296f2]
-(Colinearity)[https://towardsdatascience.com/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f]
+- [Feature Engineering](https://triangleinequality.wordpress.com/2013/09/08/basic-feature-engineering-with-the-titanic-data/)
+- [Normalization vs Standarization](https://towardsdatascience.com/normalization-vs-standardization-explained-209e84d0f81e)
+- [Colinearity](https://towardsdatascience.com/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f)
